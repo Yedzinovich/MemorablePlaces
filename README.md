@@ -1,3 +1,3 @@
 # MemorablePlaces
 
-### Android Map & Geolocation Application 
+### Android Map & Geolocation Application (for testing)
